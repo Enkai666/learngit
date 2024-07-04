@@ -10,3 +10,6 @@ Creating a new branch is quick AND simple.
 hello jiayi.qian.
 hi,enkai.
 hi,wife.
+hi,teacher.
+first.
+second.
